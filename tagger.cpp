@@ -1,5 +1,5 @@
 // Usage:
-//   album_cover_tagger <audio_file> <image_file>
+//   album_cover_tagger <audio_file> <image_file> {.jpg .png}
 
 #include <taglib/fileref.h>
 #include <taglib/tfile.h>
